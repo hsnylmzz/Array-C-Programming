@@ -5,11 +5,11 @@ int main() {
   int sonuc=findIndex(dizi,12,83);
   if(sonuc!=-1)
   {
-  printf("ARADIGINIZ DIZININ ELEMANI %d.indiste",sonuc+1);
+     printf("ARADIGINIZ DIZININ ELEMANI %d.indiste",sonuc+1);
   }
   else
   {
-  printf("ARADIGINIZ DIZININ ELEMANI BULUNAMADI");
+     printf("ARADIGINIZ DIZININ ELEMANI BULUNAMADI");
   }
   return 0;
 }
